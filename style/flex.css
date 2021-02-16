@@ -1,0 +1,46 @@
+.jcsb{
+    justify-content: space-between;
+}
+.jcc{
+    justify-content: center;
+}
+.aic{
+    align-items: center;
+}
+.acsb{
+    align-content: space-between;
+}
+.acc{
+    align-content: center;
+}
+.df{
+    display: flex;
+}
+.fdc{
+    flex-direction: column;
+}
+.fww{
+    flex-wrap: wrap;
+}
+.fg{
+    display: flex;
+    flex-grow: 1;
+}
+.aife{
+    align-items: flex-end;
+}
+.jcfe{
+    justify-content: flex-end;
+}
+.jcse{
+    justify-content: space-evenly;
+}
+.acsb{
+    align-content: space-between;
+}
+.aifs{
+    align-items: flex-start;
+}
+.jcfs{
+    justify-content: flex-start;
+}
